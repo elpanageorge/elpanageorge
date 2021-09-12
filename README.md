@@ -4,8 +4,3 @@ matrix:~ elpanageorge$ w
 - 🌱 I’m currently working on django python projects
 - 💞️ I’m looking to collaborate on anything PM or python related
 - 📫 email me: jorgelopezleonardi@gmail.com
-
-<!---
-elpanageorge/elpanageorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
